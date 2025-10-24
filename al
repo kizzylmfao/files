@@ -1,3 +1,3 @@
-tt = [
-'antileak' = true
-]
+tt = {
+    antileak = true
+}
